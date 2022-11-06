@@ -2,7 +2,7 @@
 
 MQTT broker and Streamr publishing service for SailMate Central Messaging Hub
 
-![image](./overview.png)
+![image](./overview1.png)
 
 ## Start
 Add wallet id to config file
